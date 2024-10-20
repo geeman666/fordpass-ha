@@ -90,11 +90,11 @@ REGIONS = {
         "locale_short": "IE", #Temp fix 
         "locale_url": "https://login.ford.ie"
     },
-    "Australia": {
-        "region": "5C80A6BB-CF0D-4A30-BDBF-FC804B5C1A98",
-        "locale": "EN-AU",
-        "locale_short": "AUS",
-        "locale_url": "https://login.ford.com.au"
+    "New Zealand": {
+        "region": "2BDAB9DF-9151-41A1-B6F7-B9490CF8C430",
+        "locale": "EN-NZ",
+        "locale_short": "NZL",
+        "locale_url": "https://login.ford.co.nz"
     },
     "North America & Canada": {
         "region": "71A3AD0A-CF46-4CCF-B473-FC7FE5BC4592",
